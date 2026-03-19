@@ -79,8 +79,8 @@ Backend      FastAPI · Flask · PostgreSQL · Node.js · Microservices
 
 ### Currently
 
-Building open-source LLM eval and prompt quality tooling. Working through system design and DSA prep alongside a full-time job.
+Building open-source LLM eval and prompt quality tooling. Working through system design and DSA alongside a full-time job.
 
 ---
 
-*Based in Gurugram, India. Open to conversations about AI/ML engineering roles.*
+*Open to conversations about AI/ML engineering roles.*
