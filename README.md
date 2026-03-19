@@ -2,9 +2,13 @@
 
 Software engineer with five years building AI/ML systems in production. I work across the full stack - LLMs, classical ML, deep learning, and the infrastructure underneath.
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamdubey)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SakshamDubey29/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saksham.dubey29@gmail.com)
+
+</div>
 
 ---
 
