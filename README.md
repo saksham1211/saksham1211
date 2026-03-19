@@ -71,7 +71,7 @@ Backend      FastAPI · Flask · PostgreSQL · Node.js · Microservices
 | Project | What it is |
 |---|---|
 | [PromptIQ](https://github.com/saksham1211/promptiq) | Prompt evaluation engine - TF-IDF task classification, model-fit scoring, no LLM in the eval loop |
-| [rag-from-scratch](https://github.com/saksham1211/rag-from-scratch) | Minimal RAG pipeline built to understand the retrieval layer properly, not abstract it |
+| [self-healing-rag-pipeline](https://github.com/saksham1211/self-healing-rag-pipeline) | Minimal RAG pipeline built to understand the retrieval layer properly, not abstract it |
 | [agent-routing-benchmark](https://github.com/saksham1211/agent-routing-benchmark) | Intent-based multi-agent router with a benchmark comparing routing strategies |
 | [llm-eval-kit](https://github.com/saksham1211/llm-eval-kit) | Lightweight harness scoring LLM outputs on faithfulness, relevance, and coherence |
 
